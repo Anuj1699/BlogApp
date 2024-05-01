@@ -1,0 +1,9 @@
+.customOverlay {
+    backdrop-filter: blur(10px);
+    background: rgba(26, 62, 78, 0);
+  }
+  .customModal {
+    background: #2b3344;
+    border-radius: 10px;
+    width: 100%;
+  }
